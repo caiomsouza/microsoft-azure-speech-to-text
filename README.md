@@ -1,9 +1,30 @@
 # Microsoft Azure Speech to Text
 This repo is dedicated to Microsoft Azure Speech to Text.
 
+Speech service documentation
+https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/
+
+What is the Speech service?
+https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/overview
+
+About the Speech SDK
+https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/speech-sdk?tabs=windows%2Cubuntu%2Cios-xcode%2Cmac-xcode%2Candroid-studio
+
+Get started with speech-to-text
+https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/get-started-speech-to-text?tabs=windowsinstall&pivots=programming-language-python
+
+
+Sample data for Custom Speech
+https://github.com/Azure-Samples/cognitive-services-speech-sdk/tree/master/sampledata/customspeech
+
 Resource: <BR>
+https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/text-to-speech<BR>  
 https://github.com/Azure-Samples/cognitive-services-speech-sdk <BR>
-  
+https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/rest-speech-to-text<BR> 
+https://github.com/Azure-Samples/cognitive-services-speech-sdk/blob/master/README.md#get-the-samples<BR>
+https://github.com/Azure-Samples/cognitive-services-speech-sdk/blob/master/quickstart/python/from-microphone/quickstart.py <BR>
+
+
   
 
 Speech recognition <BR>
