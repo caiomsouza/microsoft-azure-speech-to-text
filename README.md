@@ -1,30 +1,36 @@
 # Microsoft Azure Speech to Text
 This repo is dedicated to Microsoft Azure Speech to Text.
 
-Speech service documentation
-https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/
+Speech service documentation<BR>
+https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/<BR><BR>
 
-What is the Speech service?
-https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/overview
+What is the Speech service?<BR>
+https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/overview<BR><BR>
 
-About the Speech SDK
-https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/speech-sdk?tabs=windows%2Cubuntu%2Cios-xcode%2Cmac-xcode%2Candroid-studio
+About the Speech SDK<BR>
+https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/speech-sdk?tabs=windows%2Cubuntu%2Cios-xcode%2Cmac-xcode%2Candroid-studio<BR><BR>
 
-Get started with speech-to-text
-https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/get-started-speech-to-text?tabs=windowsinstall&pivots=programming-language-python
+Get started with speech-to-text<BR>
+https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/get-started-speech-to-text?tabs=windowsinstall&pivots=programming-language-python<BR><BR>
 
+Language and voice support for the Speech service<BR>
+https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/language-support#speech-to-text<BR><BR>
 
-Sample data for Custom Speech
-https://github.com/Azure-Samples/cognitive-services-speech-sdk/tree/master/sampledata/customspeech
+Sample data for Custom Speech<BR>
+https://github.com/Azure-Samples/cognitive-services-speech-sdk/tree/master/sampledata/customspeech<BR>
 
 Resource: <BR>
 https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/text-to-speech<BR>  
 https://github.com/Azure-Samples/cognitive-services-speech-sdk <BR>
 https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/rest-speech-to-text<BR> 
 https://github.com/Azure-Samples/cognitive-services-speech-sdk/blob/master/README.md#get-the-samples<BR>
-https://github.com/Azure-Samples/cognitive-services-speech-sdk/blob/master/quickstart/python/from-microphone/quickstart.py <BR>
+https://github.com/Azure-Samples/cognitive-services-speech-sdk/blob/master/quickstart/python/from-microphone/quickstart.py <BR><BR>
 
+Quickstart: Recognize speech from a microphone from Python using the Speech Service<BR>
+https://github.com/Azure-Samples/cognitive-services-speech-sdk/tree/master/quickstart/python/from-microphone<BR><BR>
 
+Python console app<BR>
+https://github.com/Azure-Samples/cognitive-services-speech-sdk/tree/master/samples/python/console<BR>
   
 
 Speech recognition <BR>
