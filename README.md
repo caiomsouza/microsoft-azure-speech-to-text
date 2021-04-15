@@ -1,6 +1,11 @@
 # Microsoft Azure Speech to Text
 This repo is dedicated to Microsoft Azure Speech to Text.
 
+Resource: <BR>
+https://github.com/Azure-Samples/cognitive-services-speech-sdk <BR>
+  
+  
+
 Speech recognition <BR>
 Speech recognition is an interdisciplinary subfield of computer science and computational linguistics that develops methodologies and technologies that enable the recognition and translation of spoken language into text by computers. It is also known as automatic speech recognition (ASR), computer speech recognition or speech to text (STT). It incorporates knowledge and research in the computer science, linguistics and computer engineering fields.<BR>
 
